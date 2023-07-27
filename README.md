@@ -1,5 +1,6 @@
 # playstore-EDA
 
+![Google-Play-Logo](https://github.com/azizdafi/playstore-EDA/assets/17454061/584a7259-5793-4505-a78b-99a241419345)
 
 
 
